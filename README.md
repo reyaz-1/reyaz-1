@@ -27,7 +27,7 @@ The project explores how hybrid retrieval systems and local inference can improv
 
 ---
 
-# ⚙️ Core Focus Areas
+# Core Focus Areas
 
 ## AI Engineering
 - Local LLM Systems
