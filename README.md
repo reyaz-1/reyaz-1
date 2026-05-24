@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mamed
+#  Hey, I'm Mamed
 
 ### Software Engineering Student • AI Systems Builder • Designing Mental Models for Complex Technical Logic
 
@@ -11,9 +11,7 @@ I focus on building practical AI systems with an emphasis on:
 
 Currently building **Dorm-Net**, an offline-first AI tutor designed for engineering students.
 
----
-
-# 🧠 Dorm-Net
+#  Dorm-Net
 
 > Offline-first AI tutoring for constrained university environments.
 
@@ -52,7 +50,7 @@ The project explores how hybrid retrieval systems and local inference can improv
 
 ---
 
-# 🏗️ Current Work
+# Current Work
 
 Currently refining:
 - Hybrid retrieval architectures
@@ -63,22 +61,22 @@ Currently refining:
 
 ---
 
-# 🧩 Featured Projects
+# Featured Projects
 
-## 🧠 Dorm-Net
+## Dorm-Net
 Offline-first AI tutor for engineering study using hybrid retrieval and local LLM inference.
 
-## 🚖 Ride Price Estimation
+## Ride Price Estimation
 End-to-end machine learning pipeline using regression models and feature engineering.
 
-## 👁️ AI Face Recognition
+## AI Face Recognition
 Real-time face recognition system using OpenCV and Streamlit.
 
 
 ---
 
-# 🌐 Connect With Me
-
+# Connect With Me
+- Linkedin: www.linkedin.com/in/mohammed-jemal-01m
 - Email: mamedjemal@gmail.com
 - GitHub: https://github.com/mamedtheone
 
