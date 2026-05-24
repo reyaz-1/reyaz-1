@@ -78,7 +78,7 @@ Real-time face recognition system using OpenCV and Streamlit.
 # Connect With Me
 - Linkedin: www.linkedin.com/in/mohammed-jemal-01m
 - Email: mamedjemal@gmail.com
-- GitHub: https://github.com/mamedtheone
+- GitHub: https://github.com/reyaz-1
 
 ---
 
